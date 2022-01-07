@@ -25,7 +25,7 @@
 ## Deploy
 
 <a href="https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://github.com/Kiranlalettan/auto-filter-bot-premier" alt="Deploy">
 </a>
 <i>
 
