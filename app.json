@@ -1,7 +1,7 @@
 {
     "name": "Pro Auto Filter Bot",
-    "description": "Pro Auto Filter BoT V2 @LXRYOUTUBERAMAL",
-    "logo": "https://telegra.ph/file/6cae56a1a71342777acdc.jpg",
+    "description": "Pro Auto Filter BoT V2 @mangalasseryy_neelakandan",
+    "logo": "https://telegra.ph/file/2d5f38ef55ef982196023.jpg",
     "keywords": [
         "Pro",
         "Auto",
@@ -9,9 +9,9 @@
         "Bot",
         "V2"
     ],
-    "website": "https://github.com/LXR-YOUTUBER-AMAL",
+    "website": "https://github.com/Kiranlalettan",
     "repository": "https://github.com/Kiranlalettan/auto-filter-bot-premier",
-    "success_url": "https://telegram.dog/mo_tech_yt",
+    "success_url": "https://telegram.dog/Tamil_Rockers_mallu",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
