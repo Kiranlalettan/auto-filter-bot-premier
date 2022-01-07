@@ -4,7 +4,7 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 <P align="center">
-   <a href="https://youtu.be/zztf40dmEbI">
+   <a href="https://t.me/tamil_rockers_mallu">
 
 🎀 Whatch deploying video 🎀
 .
@@ -15,13 +15,13 @@
 
 
 
-```Just add bot to channel and group after deploying &See powers```
+```DONT DISTURB ME IAM ONLY WORK ON MOVIE FACTORY```
 
 
 
 ```for configure just type /𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒 in you group```
 
-```✤🅵🅾🆁 🅼🅾🆁🅴 🅷🅴🅻🅿 🅹🅾🅸🅽 🆃🅶/🆆🅰 🅶🆁🅾🆄🅿🆂✤```
+```❤️Join Our Main Channel❤️```
 ## Deploy
 
 <a href="https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier/tree/main">
@@ -40,7 +40,7 @@
 
 ##### SUPPORT GROUPS
 
-[![SAwalogo](https://telegra.ph/file/0da96d2be9ac508c2e082.png)](https://chat.whatsapp.com/CBKnU789OGpBeCUTsWUs2y)
+[![SAwalogo](https://telegra.ph/file/2d5f38ef55ef982196023.jpg)
   <div align="center">
 
 
